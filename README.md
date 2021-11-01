@@ -1,1 +1,1 @@
-# Hostel-Management-Web-App
+# Purecodes-Project
